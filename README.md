@@ -1,16 +1,18 @@
 # Hi 👋, I'm Sarayu Ikkurthi
 
-### Electronics & Communication Engineering Student | Embedded Systems | VLSI | AI & Machine Learning
+### Electronics & Communication Engineering Student | AI & Machine Learning | Embedded Systems | VLSI
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a B.Tech Electronics & Communication Engineering student at SRM University-AP with a strong interest in Embedded Systems, VLSI Design, Artificial Intelligence, Machine Learning, and IoT.
+I'm a B.Tech Electronics & Communication Engineering student at **SRM University-AP** with interests in **Artificial Intelligence, Machine Learning, Embedded Systems, VLSI Design, and IoT**.
 
-I enjoy applying engineering concepts to solve real-world problems through software and hardware integration. My experience includes developing projects in MATLAB, Python, Arduino, Cadence Virtuoso, and embedded systems, helping me build a solid foundation in both programming and electronics.
+I enjoy working at the intersection of software and hardware to solve real-world problems. My technical experience includes **Python, C, SQL, MATLAB, Verilog, Pandas, NumPy, Machine Learning, NLP, LLMs, Generative AI, Digital Electronics, and IoT**.
 
-I am continuously learning new technologies and actively working on projects that strengthen my technical and problem-solving skills.
+I have worked on projects involving **AI/ML, computer vision, anomaly detection, security systems, and embedded systems**, which have helped me strengthen my programming, analytical, and problem-solving skills.
+
+I am continuously learning new technologies and building projects that expand my knowledge in **AI, data analytics, embedded systems, and VLSI**.
 
 ---
 
@@ -18,7 +20,8 @@ I am continuously learning new technologies and actively working on projects tha
 
 **Bachelor of Technology (B.Tech)**
 Electronics & Communication Engineering
-SRM University-AP
+**SRM University-AP**
+2023 – Present | **CGPA: 7.5/10**
 
 ---
 
@@ -31,23 +34,38 @@ SRM University-AP
 * Verilog
 * MATLAB
 
-### Core Skills
+### Data & Analytics
 
-* Data Structures
+* SQL
+* Pandas
+* NumPy
+* Data Preprocessing
+* Data Analysis
+
+### AI & Machine Learning
+
+* Machine Learning
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
+* Generative AI
+* Anomaly Detection
+* Image Classification
+* Computer Vision
+
+### Electronics & Core Technologies
+
 * Digital Electronics
 * Embedded Systems
 * Internet of Things (IoT)
 * VLSI Design
 * CMOS Design
-* Machine Learning
-* Computer Vision
+* Verilog HDL
 
 ### Tools & Technologies
 
 * MATLAB
+* Arduino UNO
 * Cadence Virtuoso
-* Spectre Simulator
-* Arduino IDE
 * Git
 * GitHub
 
@@ -57,23 +75,33 @@ SRM University-AP
 
 ### 📌 Image Classification using CNN in MATLAB
 
-Developed a Convolutional Neural Network (CNN) for image classification using MATLAB. The project includes data preprocessing, CNN architecture design, training, testing, and performance evaluation.
+Developed a **Convolutional Neural Network (CNN)** for image classification using MATLAB. The project includes data preprocessing, CNN architecture design, training, testing, and performance evaluation.
+
+**Tools:** MATLAB
 
 ### 📌 Design & Analysis of 6T SRAM Cell
 
-Designed and analyzed a conventional 6T SRAM cell using Cadence Virtuoso and Spectre Simulator. Performed transistor sizing, DC analysis, Static Noise Margin (SNM) evaluation, and read/write operation analysis.
+Designed and analyzed a conventional **6T SRAM cell** using **Cadence Virtuoso and Spectre Simulator**. Performed transistor sizing, DC analysis, Static Noise Margin (SNM) evaluation, and read/write operation analysis.
+
+**Tools:** Cadence Virtuoso, Spectre Simulator
 
 ### 📌 Single Click Assistant for Paralyzed Patients
 
-Designed an assistive embedded system that enables paralyzed patients to communicate using eye blink detection. The system notifies caretakers using LED indicators and buzzer alerts.
+Developed an **AI/IoT-based assistive system** using eye-blink detection to enable communication for paralyzed patients. Processed eye-blink signals to identify intentional inputs and trigger real-time alerts to caretakers.
+
+**Tools:** Arduino UNO, Embedded Systems, IoT
 
 ### 📌 Detecting Anomalies in Weather Data
 
-Developed a machine learning solution for identifying unusual weather patterns to support early detection and data analysis.
+Developed an **AI/ML-based anomaly detection system** to identify unusual patterns in weather data. Performed data preprocessing and analysis to detect abnormal conditions and provide early indications of potential weather-related disasters.
+
+**Tools:** Python, Pandas, NumPy, Machine Learning
 
 ### 📌 Intrusion Detection System
 
-Developed a security monitoring system that detects unauthorized access and generates alerts for improved safety.
+Developed an intelligent **security monitoring system** to detect unauthorized entry using sensor-based monitoring. Implemented automated alerts and image capture for remote identification and notification of intruders.
+
+**Tools:** Arduino UNO, Sensors, IoT
 
 ---
 
@@ -89,29 +117,38 @@ Developed a security monitoring system that detects unauthorized access and gene
 
 ## 🏅 Certifications & Achievements
 
-* VLSI Internship – Wayspire
-* Participant – Amaravati Quantum Valley Internal Hackathon 2025
+* **Certificate of Participation – Amaravati Quantum Valley Internal Hackathon 2025**
+
+  * Participated in the hackathon organized by SRM University-AP.
+  * Collaborated on innovative technology-based solutions.
+  * Applied problem-solving, teamwork, and project development skills.
 
 ---
 
 ## 🌱 Currently Learning
 
 * Advanced VLSI Design
-* Embedded Systems
 * Verilog HDL
-* MATLAB
+* Embedded Systems
 * Machine Learning
+* Natural Language Processing
+* Large Language Models
+* Generative AI
+* Data Analytics
 * Computer Vision
 
 ---
 
 ## 🎯 Areas of Interest
 
-* Embedded Systems
-* VLSI Design
 * Artificial Intelligence
 * Machine Learning
-* Internet of Things (IoT)
+* Generative AI
+* Natural Language Processing
+* Data Analytics
+* Embedded Systems
+* VLSI Design
+* IoT
 * Computer Vision
 * Digital System Design
 
@@ -119,23 +156,32 @@ Developed a security monitoring system that detects unauthorized access and gene
 
 ## 📊 GitHub Goals
 
-* Build impactful engineering projects.
-* Contribute to open-source software.
-* Continuously improve programming and design skills.
-* Learn modern technologies in AI, Embedded Systems, and VLSI.
+* 🚀 Build impactful AI and engineering projects.
+* 💡 Develop practical solutions using hardware and software integration.
+* 📚 Continuously improve programming and technical skills.
+* 🤝 Contribute to open-source projects.
+* 🔬 Explore emerging technologies in AI, Embedded Systems, and VLSI.
+* 🌱 Keep learning and growing as an engineer.
 
 ---
 
 ## 📫 Connect with Me
 
-📧 Email: [sarayuikkurthii@gmail.com](mailto:sarayuikkurthii@gmail.com)
+📧 **Email:** [sarayuikkurthii@gmail.com](mailto:sarayuikkurthii@gmail.com)
 
-🔗 LinkedIn: https://www.linkedin.com/in/sarayu-ikkurthi
+🔗 **LinkedIn:** [linkedin.com/in/sarayu-ikkurthi](https://www.linkedin.com/in/sarayu-ikkurthi)
 
-💻 GitHub: https://github.com/sarayuikkurthi-06
+💻 **GitHub:** [github.com/sarayuikkurthi-06](https://github.com/sarayuikkurthi-06)
 
 ---
 
-### Thank you for visiting my GitHub profile!
+## 💡 Coding Profiles
 
-I’m always eager to learn, collaborate, and work on meaningful engineering projects. Feel free to explore my repositories and connect with me.
+* 🟠 **LeetCode:** [View Profile](https://leetcode.com/u/sarayu_ikkurthi/)
+* 🟤 **CodeChef:** [View Profile](https://www.codechef.com/users/giddy_pine_52)
+
+---
+
+### ⭐ Thank you for visiting my GitHub profile!
+
+I'm always eager to learn, collaborate, and work on meaningful engineering projects. Feel free to explore my repositories and connect with me.
